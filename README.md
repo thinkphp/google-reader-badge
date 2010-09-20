@@ -11,7 +11,7 @@ To use this badge, simply add a link to your shared reader items and the script 
 your shared items homepage that Google Reader offers. In my case is http://www.google.com/reader/shared/14570835283517884254
 
       #HTML
-     &lt;div id="google_reader_badge" class="items5"&gt;
-     <p><a href="http://www.google.com/reader/shared/14570835283517884254">My Shared Items on Google Reader</a></p>
-     &lt;/div&gt;
-     &lt;script type="text/javascript" src="GReaderBadge.js"&gt;&lt;/script&gt;
+      <div id="google_reader_badge" class="items5">
+      <p><a href="http://www.google.com/reader/shared/14570835283517884254">My Shared Items on Google Reader</a></p>
+      </div>
+      <script type="text/javascript" src="GReaderBadge.js"></script>
