@@ -9,6 +9,7 @@ To use this badge, simply add a link to your shared reader items and the script 
 'items5' class defines how many items you want to display. If you want 10 items, make it items10. If you don't provide
  a class the script has a pre-set of five items. All you need is your user ID, which you can get this one easily from 
 your shared items homepage that Google Reader offers. In my case is http://www.google.com/reader/shared/14570835283517884254
+This badge uses the following HTML to show off my shared items on Google Reader:
 
       #HTML
       <div id="google_reader_badge" class="items5">
