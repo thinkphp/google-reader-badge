@@ -13,4 +13,4 @@ your shared items homepage that Google Reader offers. In my case is http://www.g
    <div id="google_reader_badge" class="items5">
      <p><a href="http://www.google.com/reader/shared/14570835283517884254">My Shared Items on Google Reader</a></p>
    </div>
-   <script type="text/javascript" src="GReaderBadge.js"></script>
+   &lt;script type="text/javascript" src="GReaderBadge.js"&gt;&lt;/script&gt;
