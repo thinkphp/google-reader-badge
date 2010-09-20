@@ -17,4 +17,4 @@ your shared items homepage that Google Reader offers. In my case is http://www.g
 
 
    #JavaScript
-   <script src="GReaderBadge.js"></script>
+   <script type="text/javascrip" src="GReaderBadge.js"></script>
